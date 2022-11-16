@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSPharma_JuancaV3", "CSPharma_JuancaV3\CSPharma_JuancaV3.csproj", "{B75C4DFC-DA07-43CF-B129-9FDED83A43BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{541C9479-51C1-4C54-BDD0-B7243BB63F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B75C4DFC-DA07-43CF-B129-9FDED83A43BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75C4DFC-DA07-43CF-B129-9FDED83A43BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75C4DFC-DA07-43CF-B129-9FDED83A43BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75C4DFC-DA07-43CF-B129-9FDED83A43BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541C9479-51C1-4C54-BDD0-B7243BB63F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541C9479-51C1-4C54-BDD0-B7243BB63F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541C9479-51C1-4C54-BDD0-B7243BB63F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541C9479-51C1-4C54-BDD0-B7243BB63F78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3EB1F5D-08B2-4556-96CD-72E7D0C367F6}
+	EndGlobalSection
+EndGlobal
